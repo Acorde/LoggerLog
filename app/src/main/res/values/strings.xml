@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="nestedJson">{
+  "a": {
+    "b": 1,
+    "c": null,
+    "d": [
+      false,
+      true
+    ]
+  },
+  "e": "f",
+  "g": 2.3
+}</string>
+</resources>
